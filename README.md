@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/SSL-ACTX/SSL-ACTX/main/gifs/term.gif" width="190"/>
 </div>
 <div id="badges" align="center">
-  <a href="">
+  <a>
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
   <a href="https://gitlab.com/SSL-ACTX">
@@ -12,8 +12,6 @@
 <div align="center">
    <img src="https://komarev.com/ghpvc/?SSL-Kazu&style=flat-square&color=blue" align="center"/>
 </div>
-
-### :hammer_and_wrench:
 
 <div>
   <div align="center">
@@ -31,10 +29,6 @@
 </div>
   <div>
   <div align="center">
-    
-### 🎶 Recently Played:
-  
- ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31yj6y7voanhlsfmzk3h6m3avnjy)
 
 ### :fire: My Stats :
 
@@ -43,3 +37,6 @@
 ![](https://raw.githubusercontent.com/SSL-Kazu/SSL-Kazu/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/SSL-Kazu/SSL-Kazu/master/generated/languages.svg#gh-dark-mode-only)
 
+### 🎶 Recently Played:
+  
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31yj6y7voanhlsfmzk3h6m3avnjy)
